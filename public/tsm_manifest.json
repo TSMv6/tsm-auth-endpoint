@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "tsm_version": "2026.1",
-  "updated": "2026-06-19",
-  "contact": "TSM Dev Team <REPLACE_WITH_TEAM_EMAIL>",
-  "message_on_block": "TSM is free to use. To make sure you get the best experience for your project, this model needs the latest approved TSM release and data. This copy is out of date or could not be verified. Please contact the TSM Dev Team to pick up the current version.",
+  "updated": "2026-06-20",
+  "contact": "TSM Model Development Team <REPLACE_WITH_TEAM_EMAIL>",
+  "message_on_block": "TSM is free to use. To make sure you get the best experience for your project, this model needs the latest approved TSM release and data. This copy is out of date or could not be verified. Please contact the TSM Model Development Team to pick up the current version.",
   "offline_grace_days": 7,
   "tools": {
     "popsim":        { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
