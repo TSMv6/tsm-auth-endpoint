@@ -10,7 +10,7 @@
     "sdt-run":       { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
     "ldt-run":       { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
     "pathskim":      { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
-    "skimconverter": { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
+    "eltod":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
     "afdta":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true }
   },
   "revoked_versions": [],
