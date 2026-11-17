@@ -14,5 +14,5 @@
     "afdta":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true }
   },
   "revoked_versions": [],
-  "revoked_token_ids": []
+  "revoked_token_ids": ["tsm-2026-0002", "tsm-2026-0023", "tsm-2026-0011", "tsm-2026-0013", "tsm-2026-0007", "tsm-2026-0017"]
 }
