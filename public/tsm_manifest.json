@@ -11,7 +11,9 @@
     "ldt-run":       { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
     "pathskim":      { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
     "eltod":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
-    "afdta":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true }
+    "afdta":         { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": true },
+    "netprep":       { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": false },
+    "gmcheck":       { "min_version": "2026.1", "expires": "2026-12-31", "requires_token": false }
   },
   "revoked_versions": [],
   "revoked_token_ids": ["tsm-2026-0002", "tsm-2026-0023", "tsm-2026-0011", "tsm-2026-0013", "tsm-2026-0007", "tsm-2026-0017"]
